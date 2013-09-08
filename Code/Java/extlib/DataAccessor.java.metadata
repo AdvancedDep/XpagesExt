@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><note class="form" maintenanceversion="3.0" replicaid="48257BE0004C6B1C" version="8.5" xmlns="http://www.lotus.com/dxl">
+<noteinfo noteid="3b2" sequence="21" unid="1B6EBDCFDD22CEF9852579900008DE90">
+<created><datetime>20120124T203652,64-05</datetime></created>
+<modified><datetime>20130908T221513,87+08</datetime></modified>
+<revised><datetime>20130908T221513,86+08</datetime></revised>
+<lastaccessed><datetime>20130908T221513,87+08</datetime></lastaccessed>
+<addedtofile><datetime>20130908T215446,00+08</datetime></addedtofile></noteinfo>
+<updatedby><name>CN=admin/O=acme</name><name>CN=a admin/O=ibm</name><name>CN=admin/O=办公平台</name></updatedby>
+<wassignedby><name>CN=admin/O=办公平台</name></wassignedby>
+<item name="$Flags"><text>34567Cg~[</text></item>
+<item name="$TITLE"><text>extlib/DataAccessor.java</text></item>
+<item name="$DesignerVersion"><text>8.5.3</text></item>
+
+
+<item name="$FileNames" sign="true"><text>extlib/DataAccessor.java</text></item>
+
+
+</note>
